@@ -1,0 +1,11 @@
+C:\Users\labstudent\source\repos\Rocketgame\Rocketgame\bin\Debug\Rocketgame.exe.config
+C:\Users\labstudent\source\repos\Rocketgame\Rocketgame\bin\Debug\Rocketgame.exe
+C:\Users\labstudent\source\repos\Rocketgame\Rocketgame\bin\Debug\Rocketgame.pdb
+C:\Users\labstudent\source\repos\Rocketgame\Rocketgame\obj\Debug\Rocketgame.csproj.AssemblyReference.cache
+C:\Users\labstudent\source\repos\Rocketgame\Rocketgame\obj\Debug\Rocketgame.Form1.resources
+C:\Users\labstudent\source\repos\Rocketgame\Rocketgame\obj\Debug\Rocketgame.Form2.resources
+C:\Users\labstudent\source\repos\Rocketgame\Rocketgame\obj\Debug\Rocketgame.Properties.Resources.resources
+C:\Users\labstudent\source\repos\Rocketgame\Rocketgame\obj\Debug\Rocketgame.csproj.GenerateResource.cache
+C:\Users\labstudent\source\repos\Rocketgame\Rocketgame\obj\Debug\Rocketgame.csproj.CoreCompileInputs.cache
+C:\Users\labstudent\source\repos\Rocketgame\Rocketgame\obj\Debug\Rocketgame.exe
+C:\Users\labstudent\source\repos\Rocketgame\Rocketgame\obj\Debug\Rocketgame.pdb
